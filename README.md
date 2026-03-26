@@ -6,7 +6,7 @@ electronics. I build end to end - from PCB layouts and firmware to multi-tenant
 web platforms and AI-integrated applications.
 
 📄 [Portfolio](https://abdielMarcano.dev) · 
-💼 [LinkedIn](https://www.linkedin.com/in/abdiel-marcano-16135a2aa/) · 
+💼 [LinkedIn](https://www.linkedin.com/in/abdiel-marcano/) · 
 📧 abdielmarcano11@gmail.com
 
 ---
