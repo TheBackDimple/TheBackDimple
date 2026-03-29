@@ -5,7 +5,7 @@ focus on backend systems, database architecture, embedded hardware, and analog
 electronics. I build end to end - from PCB layouts and firmware to multi-tenant 
 web platforms and AI-integrated applications.
 
-📄 [Portfolio](abdiel-portfolio.vercel.app) · 
+📄 [Portfolio](https://abdiel-portfolio.vercel.app/) · 
 💼 [LinkedIn](https://www.linkedin.com/in/abdiel-marcano/) · 
 📧 abdielmarcano11@gmail.com
 
