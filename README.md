@@ -37,6 +37,7 @@ Validated across 3 tenant accounts and 9 users. Deployed on Vercel with Sentry
 monitoring.  
 `Next.js` `Supabase` `PostgreSQL` `RLS` `RBAC` `Vercel`  
 *Code samples available upon request.*
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/crown-reserve-systems-portal)
 
 ---
 
@@ -49,6 +50,7 @@ per report.
 `ESP32` `Raspberry Pi CM4` `Node.js` `Express` `PostgreSQL` `Prisma` 
 `JWT` `Docker` `Embedded Linux`  
 *Private repo - associated with senior design project.*
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/pwnboxer)
 
 ---
 
@@ -57,7 +59,8 @@ Gamified fitness web app with a MongoDB Atlas backend, REST API, AI assistant
 integration, quest systems, leaderboards, and achievements. Supports 31 users, 
 35 quests, and 17 weekly routines across 5 collections.  
 `MongoDB` `REST APIs` `Auth` `Node.js`  
-[Portfolio Page](https://abdielMarcano.dev/projects/fitopia)
+[Repo](https://github.com/TheBackDimple/fitopia)
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/fitopia)
 
 ---
 
@@ -67,8 +70,9 @@ Combines an HC-SR04 ultrasonic sensor with YOLO + DeepSORT computer vision
 to detect proximity breaches (<5 inches) and time-based tracking violations 
 (>60 seconds, same person). Triggers phone vibration and audible alarm.  
 `YOLO` `DeepSORT` `OpenCV` `Arduino` `HC-SR04` `Python`  
-[Portfolio Page](https://abdielMarcano.dev/projects/cyclops) · 
-[Devpost](https://devpost.com)
+[Repo](https://github.com/KevinTTO5/KHVIII-Personal_Bubble)
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/cyclops) · 
+[Devpost](https://devpost.com/software/cyclops-xgf2qb)
 
 ---
 
@@ -79,7 +83,7 @@ and stencil-soldered components, and wrote firmware to drive an HC-SR04 sensor,
 16x2 LCD display, and potentiometer-controlled LED brightness. Validated stable 
 distance output up to 2000mm.  
 `KiCad` `PCB Design` `Arduino` `C` `LM324` `HC-SR04`  
-[Portfolio Page](https://abdielMarcano.dev/projects/ultrasonic-range-finder)
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/ultrasonic-range-finder)
 
 ---
 
@@ -90,7 +94,8 @@ design for both office levels, Blueprint + C++ gameplay code, title screen
 cinematic, and voice-acted cutscenes. Features a 3-state AI boss and 2 distinct 
 endings. Won *Most Complete Game* award.  
 `Unreal Engine 5` `Blueprints` `C++` `Game AI`  
-[Portfolio Page](https://abdielMarcano.dev/projects/burnt-out)
+[Repo](https://github.com/KevinTTO5/Burnt-Out)
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/burnt-out)
 
 ---
 
@@ -99,7 +104,7 @@ Analog fuzz effect circuit built on breadboard using an LM741 op-amp for the
 UCF IEEE Guitar Hero club. Verified with multimeter and oscilloscope, confirmed 
 working on a real guitar amplifier.  
 `Analog Circuits` `LM741` `Op-Amp Design` `Breadboard Prototyping`  
-[Portfolio Page](https://abdielMarcano.dev/projects/fuzz-circuit)
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/fuzz-circuit)
 
 ---
 
@@ -110,6 +115,7 @@ onto the windshield. Designed for universal vehicle compatibility without
 permanent modifications.  
 `Raspberry Pi` `Kotlin` `OBD-II` `Embedded Systems` `Real-Time Data`  
 [Repo](https://github.com/TheBackDimple/car-hud-pi)
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/car-hud-pi)
 
 ---
 
@@ -119,6 +125,7 @@ competition. Custom PCB design with op-amp gain staging, diode clipping,
 tone shaping, true bypass switching, and low-noise power supply filtering.  
 PCB arriving soon.  
 `Analog Circuits` `PCB Design` `KiCad` `Op-Amp` `Audio Electronics`
+[Portfolio Page](https://abdiel-portfolio.vercel.app/projects/analog-distortion-pedal)
 
 ---
 
@@ -127,6 +134,8 @@ Custom portfolio built from scratch in Next.js. Designed to showcase technical
 credibility through structured project writeups, metrics, architecture diagrams, 
 and media galleries. Deploying to Vercel.  
 `Next.js` `React` `TypeScript` `Vercel`
+[Repo](https://github.com/TheBackDimple/portfolio)
+[Portfolio Page](https://abdiel-portfolio.vercel.app/)
 
 ---
 
