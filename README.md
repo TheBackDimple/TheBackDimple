@@ -76,14 +76,14 @@ Analog fuzz effect circuit built on breadboard using an LM741 op-amp for the UCF
 
 ---
 
-### 🚗 Car HUD Pi *(In Progress — IEEE UCF)*
+### 🚗 Car HUD Pi — IEEE UCF
 Universal heads-up display for older vehicles using Raspberry Pi and OBD-II integration. Displays real-time speed, RPM, and vehicle telemetry projected onto the windshield. Designed for universal vehicle compatibility without permanent modifications.  
 `Raspberry Pi` `FastAPI` `WebSockets` `React` `Kotlin` `OBD-II`  
 → [Repo](https://github.com/TheBackDimple/car-hud-pi) · [Portfolio Page](https://abdiel-portfolio.vercel.app/projects/car-hud-pi)
 
 ---
 
-### 🎛️ Analog Distortion Pedal *(In Progress — IEEE UCF)*
+### 🎛️ Analog Distortion Pedal — IEEE UCF
 Fully analog guitar distortion pedal being built for the UCF IEEE Guitar Hero club. Custom PCB design with op-amp gain staging, diode clipping, tone shaping, true bypass switching, and low-noise power supply filtering. PCB arriving soon.  
 `Analog Circuits` `PCB Design` `KiCad` `Op-Amp` `Audio Electronics`  
 → [Portfolio Page](https://abdiel-portfolio.vercel.app/projects/analog-distortion-pedal)
@@ -110,5 +110,5 @@ Board-level console repairs, microsoldering, hardware fault diagnosis.
 ## 🎓 Education
 
 **B.S. Computer Engineering** — University of Central Florida  
-GPA: 3.4 · Expected May 2026  
+GPA: 3.4 · Graduated May 2026  
 Organizations: Knight Hacks · IEEE UCF · Knights Experimental Rocketry (KXR)
